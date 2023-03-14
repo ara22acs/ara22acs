@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning more about Git and GitHub while working in a multinational electrical company.
+I'm currently learning more about Git and GitHub while working in a multinational electric company.
 You can reach me at: aranza.alegria@hotmail.com
 <!--
 **ara22acs/ara22acs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
